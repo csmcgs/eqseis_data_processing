@@ -1,0 +1,4 @@
+*.mseed
+*.npz
+*.csv
+*.pdf
